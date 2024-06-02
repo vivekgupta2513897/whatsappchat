@@ -5,3 +5,4 @@ urlextract
 wordcloud
 pandas
 emoji
+google.com, pub-2300213627275560, DIRECT, f08c47fec0942fa0
